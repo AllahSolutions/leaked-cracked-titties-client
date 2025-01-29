@@ -7,3 +7,4 @@ The owner is acoustic and he could've escaped this fate as well if only he used 
 ### Credits
 - Zambos: Leaking
 - Dg: Getting Ratted
+- Liticane: Cracking, Deobfuscating, Publishing
